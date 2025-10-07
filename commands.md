@@ -12,7 +12,7 @@
 | `mve [SRC] [DST]`   | Move or rename files and folders                                                                |
 | `cpy [SRC] [DST]`   | Copy files and folders                                                                          |
 | `txt [FILE]`        | Super simple text editor                                                                        |
-| `bit [FILE]`        | Shows how many bytes a file is using up                                                         |
+| `bit [FILE]`        | Shows how many bytes a file is using                                                            |
 
 ## Tools
 | Command           | Description                                                                              |
@@ -22,7 +22,7 @@
 | `hi`              | Prints `hello, world!`                                                                   |
 | `say [WORDS]`     | Prints the given words (e.g., `say Hello` → `Hello`)                                     |
 | `cls`             | Clears all text from the screen                                                          |
-| `tme`             | Shows 12-Hour time and date pulled from the real-time clock                              |
+| `tme`             | 12-Hour time screensaver                                                                 |
 | `clr`             | See all colors                                                                           |
 | `bep [HZ] [MS]`   | (`[HZ]` and `[MS]` are not needed, but they need each other) Beeps the PC speaker        |
 | `dly [MS]`        | Delay command… Nothing more.                                                             |    
@@ -42,7 +42,7 @@
 | `ban`                | Shows a banner with color                                                                                                                                                                                          |
 | `mus [song]`         | (if you don't add `song` it will show all songs) Library of playable PC Speaker music                                                                                                                              |
 | `box`                | A box bounces around the screen and changes color on impact                                                                                                                                                        |
-| `hey [text]`         | (if you do not pass [text] it will just use `hello, world!`) its like the `say` command but its like prints out "text " and not "text\n" and it keeps doing it forever until you press a key and I think its cool |
+| `hey [text]`         | (if you do not pass [text] it will just use `hello, world!`) its like the `say` command but its like prints out "text " and not "text\n" and it keeps doing it forever until you press a key and I think its cool (TO BE REMOVED) |
 
 ## Scripting
 | Command                     | Description                          |
