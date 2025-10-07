@@ -23,7 +23,7 @@
 | `say [WORDS]`     | Prints the given words (e.g., `say Hello` → `Hello`)                                     |
 | `cls`             | Clears all text from the screen                                                          |
 | `tme`             | Shows 12-Hour time and date pulled from the real-time clock                              |
-| `clr [COLOR]`     | (`[COLOR]` is not needed) Changes shell color                                            |
+| `clr`             | See all colors                                                                           |
 | `bep [HZ] [MS]`   | (`[HZ]` and `[MS]` are not needed, but they need each other) Beeps the PC speaker        |
 | `dly [MS]`        | Delay command… Nothing more.                                                             |    
 | `die [UP-TO-NUM]` | (if you dont pass `[UP-TO-NUM]`, it will use 10) Picks a random number between 1 and arg |
