@@ -3,7 +3,7 @@
 ## File Management
 | Command             | Description                                                                                     |
 |---------------------|-------------------------------------------------------------------------------------------------|
-| `ls [DIRECTORY]`    | (`[DIRECTORY]` is not needed) Lists all files and folders in the current or specified directory |
+| `shw [DIRECTORY]`    | (`[DIRECTORY]` is not needed) Lists all files and folders in the current or specified directory |
 | `see [FILE]`        | Displays the contents of a file                                                                 |
 | `add [FILE] [TEXT]` | Creates a new file with optional text content                                                   |
 | `rm [FILE]`         | Deletes a file or folder                                                                        |
