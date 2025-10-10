@@ -3,12 +3,12 @@
 ## File Management
 | Command             | Description                                                                                     |
 |---------------------|-------------------------------------------------------------------------------------------------|
-| `shw [DIRECTORY]`    | (`[DIRECTORY]` is not needed) Lists all files and folders in the current or specified directory |
+| `shw [FOLDER]`      | (`[FOLDER]` is not needed) Lists all files and folders in the current or specified directory    |
 | `see [FILE]`        | Displays the contents of a file                                                                 |
 | `add [FILE] [TEXT]` | Creates a new file with optional text content                                                   |
-| `del [FILE]`         | Deletes a file or folder                                                                        |
+| `del [FILE]`        | Deletes a file or folder                                                                        |
 | `mkd [FOLDER]`      | Creates a new folder                                                                            |
-| `cd [DIRECTORY]`    | Changes the current working directory                                                           |
+| `cif [FOLDER]`      | Changes into folders                                                                            |
 | `mve [SRC] [DST]`   | Move or rename files and folders                                                                |
 | `cpy [SRC] [DST]`   | Copy files and folders                                                                          |
 | `txt [FILE]`        | Super simple text editor                                                                        |
@@ -19,7 +19,7 @@
 |-------------------|------------------------------------------------------------------------------------------|
 | `sum [EQUATION]`  | Evaluates a math expression (e.g., `sum 10*10` outputs `100`)                            |
 | `ver`             | Displays the current version of cheeseDOS                                                |
-| `hi`              | Prints `hello, world!`                                                                   |
+| `hiw`             | Prints `hello, world`                                                                    |
 | `say [WORDS]`     | Prints the given words (e.g., `say Hello` → `Hello`)                                     |
 | `cls`             | Clears all text from the screen                                                          |
 | `tme`             | 12-Hour time screensaver                                                                 |
