@@ -43,6 +43,7 @@
 | `mus [song]`         | (if you don't add `song` it will show all songs) Library of playable PC Speaker music                                                                                                                              |
 | `box`                | A box bounces around the screen and changes color on impact                                                                                                                                                        |
 | `hey [text]`         | (if you do not pass [text] it will just use `hello, world!`) its like the `say` command but its like prints out "text " and not "text\n" and it keeps doing it forever until you press a key and I think its cool (TO BE REMOVED) |
+| `bla`                | Cool Bresenham line algorithm demo |
 
 ## Scripting
 | Command                     | Description                          |
